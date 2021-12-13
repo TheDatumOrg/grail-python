@@ -19,6 +19,10 @@ To install from the source:
 
 `python setup.py install`
 
+## Main Contributors
+
+Karhan Kayan (karhan@uchicago.edu)
+
 ## Usage
 
 ### Full Example
