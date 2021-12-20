@@ -5,19 +5,19 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="grailts",
-    version="0.0.1",
+    version="0.1.0",
     author="Karhan Kaan Kayan",
     author_email="kayankarhankaan@gmail.com",
     description="Python implementation of GRAIL",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/karhankaan/GRAIL",
+    url="https://github.com/johnpaparrizos/GRAIL",
     project_urls={
-        "Bug Tracker": "https://github.com/karhankaan/GRAIL/issues",
+        "Bug Tracker": "https://github.com/johnpaparrizos/GRAIL/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        'License :: Other/Proprietary License',
         "Operating System :: OS Independent",
     ],
     package_dir={"": "src"},
