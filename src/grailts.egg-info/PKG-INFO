@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: grailts
-Version: 0.1.0
+Version: 0.1.1
 Summary: Python implementation of GRAIL
 Home-page: https://github.com/johnpaparrizos/GRAIL
 Author: Karhan Kaan Kayan
@@ -9,7 +9,7 @@ License: UNKNOWN
 Project-URL: Bug Tracker, https://github.com/johnpaparrizos/GRAIL/issues
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: Other/Proprietary License
+Classifier: License :: Pending
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown

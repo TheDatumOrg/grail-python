@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="grailts",
-    version="0.1.0",
+    version="0.1.1",
     author="Karhan Kaan Kayan",
     author_email="kayankarhankaan@gmail.com",
     description="Python implementation of GRAIL",
@@ -17,7 +17,7 @@ setuptools.setup(
     },
     classifiers=[
         "Programming Language :: Python :: 3",
-        'License :: Other/Proprietary License',
+        'License :: Pending',
         "Operating System :: OS Independent",
     ],
     package_dir={"": "src"},
